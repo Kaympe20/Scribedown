@@ -13,3 +13,5 @@ If you do, I will personally ship you a GitHub sticker with whatever image you w
 I will also include a Hack Club sticker with that same image as well:
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8449c5db27461a130cf6a94cb992f95026d59ee6_hackclub-pfp.png" width="200px">
+
+For an example of expressive/unique README's, check out [@NeonGamerBot-QK](https://github.com/NeonGamerBot-QK)'s profile.
